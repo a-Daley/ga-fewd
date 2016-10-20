@@ -1,1 +1,0 @@
-Today, we're going to learn html and a little bit of CMS
