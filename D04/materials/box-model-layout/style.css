@@ -1,0 +1,38 @@
+.gray-box {
+	background-color: #C2C1C0;
+	width: 800px;
+	height: 355px;
+	padding: 10px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.black-box {
+	color: white;
+	text-align: center;
+	background-color: black;
+	height: 20px;
+	padding: 5px;
+	margin: 10px auto 20px auto;
+}
+
+.orange-box {
+	text-align: center;
+	background-color: #DE5216;
+	height: 80px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin: 10px auto 10px auto;
+}
+
+#purple-txt {
+	color: #5C0485;
+}
+
+#green-txt {
+	color: green;
+}
+
+#yellow-txt {
+	color: yellow;
+}
