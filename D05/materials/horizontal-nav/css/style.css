@@ -1,0 +1,34 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 20px;
+}
+
+.nav {
+	background-color: black;
+
+}
+
+.nav-text {
+	font-family: 'Lobster', cursive;
+ 	color: #639c9c;
+	padding: 25px 15px 25px 15px;
+	display: inline-block;
+	text-decoration: none;
+}
+ 
+/* a {
+	color: #c1d7d7;
+	vertical-align: middle;
+	padding: 15px;
+	display: inline-block;
+}  */
+
+.nav-text:hover {
+	background-color: #e6eeff;
+	font-family: 'Lobster', cursive;
+ 	color: #639c9c;
+	vertical-align: middle;
+	padding: 10px;
+	display: inline-block;
+	text-decoration: none;
+}

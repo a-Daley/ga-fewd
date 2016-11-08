@@ -1,0 +1,65 @@
+* {
+	font-family: 'Lato', sans-serif;
+	color: #444444;
+	line-height: 1.5em;
+}
+
+.header {
+	width: 20px;
+}
+
+h1 {
+	color: #E02430;
+}
+
+
+.date {
+	color: #cccccc;
+}
+
+h3, p {
+	color: black;
+}
+
+.nav-bar a {
+	color: #dddddd;
+	text-decoration: underline;
+	padding: 5px;
+}
+
+.red-link {
+	color: #DD0000;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: right;
+}
+
+.column {
+	width: 900px;
+	border-bottom: thin solid #cccccc; 
+}
+
+.column2 {
+	width: 900px;
+}
+
+.align-right {
+	text-align: right;
+}
+
+hr {
+	color: #dddddd;
+}
+
+a:hover {
+	color: #aa0000;
+}
+
+.nav-bar2 a {
+	color: #DD0000;
+	text-decoration: none;
+}
+
+#copyright {
+	color: #bbbbbb;
+}
