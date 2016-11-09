@@ -2,16 +2,12 @@
 	font-family: 'Lato', sans-serif;
 	color: #444444;
 	line-height: 1.5em;
-}
-
-.header {
-	width: 20px;
+	padding-left: 10px;
 }
 
 h1 {
 	color: #E02430;
 }
-
 
 .date {
 	color: #cccccc;
@@ -27,6 +23,10 @@ h3, p {
 	padding: 5px;
 }
 
+.nav-bar a:hover {
+	color: black;
+}
+
 .red-link {
 	color: #DD0000;
 	text-decoration: none;
@@ -37,10 +37,6 @@ h3, p {
 .column {
 	width: 900px;
 	border-bottom: thin solid #cccccc; 
-}
-
-.column2 {
-	width: 900px;
 }
 
 .align-right {
