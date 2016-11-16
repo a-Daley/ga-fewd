@@ -1,0 +1,17 @@
+.box {
+	background-color: #ccddff;
+	border: 1px solid black;
+	height: 100px;
+}
+
+.middle {
+	height: 200px;
+}
+
+p {
+	color: #0044cc;
+	text-align: center;
+	font-weight: bold;
+	padding: 2rem;
+	text-shadow: 1px 1px black;
+}

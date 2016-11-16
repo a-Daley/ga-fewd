@@ -1,0 +1,18 @@
+.box {
+	background-color: gray;
+	border: solid black thin;
+}
+
+
+.middle {
+	height: 200px;
+}
+
+.third {
+	height: 100px;
+}
+
+p {
+	color: white;
+	text-align: center;
+}
