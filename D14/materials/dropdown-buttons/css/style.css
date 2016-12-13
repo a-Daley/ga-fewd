@@ -1,0 +1,46 @@
+* {
+	font-family: 'Merriweather', serif;
+}
+
+button {
+	border-radius: 5px;
+	width: 100px;
+	background-color: white;
+	border-style: solid;
+	position: relative;
+}
+
+button:focus {
+	background-color: #B1B8BA;
+	border-style: solid;
+	outline: none;
+}
+
+button p {
+	display: inline-block;
+
+}
+
+.drop-down-file {
+	display: none;
+}
+
+.drop-down-edit {
+	display: none;
+}
+
+.drop-down p:hover {
+	background-color: gray;
+	cursor: pointer;
+}
+
+.open {
+	display: inherit;
+	box-shadow: 0px 0px 0px;
+	background-color: #D4D8D9;
+	position: absolute;
+	width: 100px;
+	text-align: center;
+	margin: 0px;
+}
+

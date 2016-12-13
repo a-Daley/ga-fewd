@@ -1,0 +1,58 @@
+* {
+	font-family: 'Slabo 27px', serif;
+}
+
+h1 {
+	display: inline-block;
+}
+
+header {
+	background-color: #450859;
+	color: white;
+}
+
+nav {
+  text-align: right;
+}
+
+#nav-links a {
+	color: white;
+	text-decoration: none;
+	padding-right: 7px;
+	display: inline-block;
+}
+
+#hamburger {
+	display: inline-block;
+	position: absolute;
+	right: 2px;
+
+}
+
+#hamburger li {
+    background-color: white;
+	height: 5px;
+	width: 40px;
+	display: block;
+	margin: 5px;
+	display: none;
+	list-style: none;
+
+}
+
+@media handheld, only screen and (max-width: 767px) {
+  
+  #hamburger li {
+  	display: block;
+  }
+
+  nav {
+  	text-align: center;
+  }
+
+  #nav-links a {
+  	display: none;
+  	padding: 10px;
+  }
+
+}

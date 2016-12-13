@@ -1,0 +1,7 @@
+nav h1 {
+	background-color: pink;
+}
+
+a nav {
+	display: inline-block;
+}
